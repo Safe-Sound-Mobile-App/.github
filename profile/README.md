@@ -3,6 +3,8 @@
 ## 📖 About Safe & Sound
 Safe & Sound is an intelligent mobile application designed to enhance the safety and well-being of elderly individuals. By integrating AI-driven analysis with data from wearable devices, the system provides real-time monitoring of key physiological indicators, including heart rate, blood oxygen levels, and gyroscopic movement. Safe & Sound detects abnormal patterns and fluctuations, providing timely alerts to caregivers and enabling proactive intervention.
 
+🌐 **Explore More:** [TBA](#)
+
 ---
 
 ## 🚀 Features
@@ -41,8 +43,6 @@ Safe & Sound is an intelligent mobile application designed to enhance the safety
 This project is licensed under the **MIT License**.
 
 This means that anyone can use, modify, and distribute this software for any purpose, even commercially.
-
----
 
 **Key points:**
 
